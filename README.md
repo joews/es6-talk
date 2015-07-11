@@ -3,6 +3,13 @@ Code and material for the Cheltenham Geek Nights talk "ES6: using today's JavaSc
 
 [Intro slides](https://slides.com/joews/es6-todays-javascript)
 
+# TODO
+* [ ] Slide - ES6 support today
+* [ ] Slide - babel and browserify
+* [ ] Slide - tools (eslint, babel-node, babel repl, jsbin)
+* [ ] Slide - resources (caniuse, kangax' table, MDN, 2ality, David Walsh, ES6 katas, Luke hoban page, Addy Osmani examples)
+* [ ] Slide - stuff I have not mentioned: proxy, class, new methods, unicode, others...
+
 # Live code examples
 Built from the example code in this repo. Links open in the [babel.js REPL](https://babeljs.io/repl/).
 
