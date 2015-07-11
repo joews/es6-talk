@@ -1,0 +1,28 @@
+{
+  "name": "es6-talk",
+  "version": "1.0.0",
+  "description": "Code for the talk \"ES6: Using today's JavaScript today.\"",
+  "private": true,
+  "dependencies": {
+    "chalk": "*",
+    "glob": "^5.0.13"
+  },
+  "devDependencies": {
+    "babelify": "^6.1.2",
+    "browserify": "^10.2.6",
+    "eslint": "^0.24.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwhitfieldseed/es6-talk.git"
+  },
+  "author": "Joe Whitfield-Seed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwhitfieldseed/es6-talk/issues"
+  },
+  "homepage": "https://github.com/jwhitfieldseed/es6-talk#readme"
+}

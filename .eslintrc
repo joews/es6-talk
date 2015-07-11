@@ -1,0 +1,23 @@
+{
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "rules": {
+      "strict": false,
+      "eqeqeq": [2, "smart"],
+    },
+    "ecmaFeatures": {
+      "arrowFunctions": true,
+      "objectLiteralComputedProperties": true,
+      "objectLiteralShorthandMethods": true,
+      "objectLiteralShorthandProperties": true,
+      "templateStrings": true,
+      "blockBindings": true,
+      "defaultParams": true,
+      "modules": true,
+      "generators": true,
+      "restParams": true,
+      "spread": true
+    }
+}
